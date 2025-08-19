@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+[id] {
+  scroll-margin-top: 80px; /* header height অনুযায়ী adjust করুন */
+}
+
+html {
+  scroll-behavior: smooth;
+}
