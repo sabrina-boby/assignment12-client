@@ -137,7 +137,7 @@ export default function AllBloodDonationRequests() {
                     colSpan="9"
                     className="text-center py-6 text-gray-500 italic select-none"
                   >
-                    No donation requests found.
+                   
                   </td>
                 </tr>
               ) : (
