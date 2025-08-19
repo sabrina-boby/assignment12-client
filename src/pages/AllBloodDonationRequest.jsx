@@ -77,7 +77,7 @@ export default function AllBloodDonationRequests() {
   return (
     <div className="p-6 max-w-full overflow-x-auto bg-white rounded-lg shadow-md">
       <h2 className="text-3xl font-semibold mb-6 text-gray-800 text-center">
-        
+        All Blood Donation Requests (Admin View)
       </h2>
 
       {/* Filter */}
